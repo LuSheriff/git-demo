@@ -1,5 +1,5 @@
 hello world! hello git!
-console.log('女孩你好')
+console.log('女孩你好,我爱你 大甜甜')
 hello world! hello git!
 hello world! hello git!
 hello world! hello git!
